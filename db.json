@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "a",
+      "category": "Electronics",
+      "date": "2022-02-24T18:30:00.000Z",
+      "condition": "Refubrised",
+      "price": 1,
+      "description": "a",
+      "id": 1
+    },
+    {
+      "productName": "r",
+      "category": "Electronics",
+      "date": "2022-02-24T18:30:00.000Z",
+      "condition": "Refubrised",
+      "price": 5,
+      "description": "tt",
+      "id": 2
+    },
+    {
+      "productName": "n",
+      "category": "Electronics",
+      "date": "2022-02-25T18:30:00.000Z",
+      "condition": "Refubrised",
+      "price": 0,
+      "description": "kk",
+      "id": 3
+    },
+    {
+      "productName": "y",
+      "category": "Electronics",
+      "date": "2022-02-25T18:30:00.000Z",
+      "condition": "Refubrised",
+      "price": 9,
+      "description": "tt",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
